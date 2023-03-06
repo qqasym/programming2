@@ -1,1 +1,0 @@
-f.writelines([f"{line}\n" for line in lines])
